@@ -1,0 +1,10 @@
+node_modules
+bower_components
+test
+Dockerfile
+npm-debug.log
+.eslintrc
+.git
+.gitignore
+.c9
+.vscode
