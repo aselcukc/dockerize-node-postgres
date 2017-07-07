@@ -1,9 +1,9 @@
 FROM node:6-slim
 
-# Working directory for application
+# set working directory
 WORKDIR /usr/src/app
 
-# Binds to port 3000
+#application server
 EXPOSE 3000
 
 # Creates a mount point
